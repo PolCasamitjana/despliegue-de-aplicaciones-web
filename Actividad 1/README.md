@@ -4,6 +4,8 @@ datos sensibles que se envían.
 
 ![token](https://github.com/PolCasamitjana/despliegue-de-aplicaciones-web/assets/144775621/9b7030a1-d328-4924-8258-9dc91f5d5969)
 
+Acceder a la página web Esemtia de Gimbernat, F12 (Inspecciona), opcion de "Network", "index.php" y opcion de "Payload".
+
 4. ¿A qué puerto se reciben normalmente las peticiones del protocolo HTTP? ¿A qué
 capa del modelo TCP/IP se encuentra el protocolo HTTP? ¿Y los protocolos TCP,
 UDP, e IP?
